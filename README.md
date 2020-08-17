@@ -2,6 +2,4 @@
 I'm Nastya
 
 # Section 2
-//TODO write about your hobby
-//Which hobby?
-
+I play the guitar
