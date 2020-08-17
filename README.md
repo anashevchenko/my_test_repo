@@ -1,8 +1,7 @@
 # Section 1
-//TODO write about yourself
+I'm Nastya
 
 # Section 2
 //TODO write about your hobby
+//Which hobby?
 
-# Section 3
-//TODO write about your pet
